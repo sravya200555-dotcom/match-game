@@ -1,0 +1,6 @@
+{
+  "name": "SlideCheck AI – PPT Quality Analyzer",
+  "description": "AI-powered PowerPoint quality analyzer providing detailed scores for content, design, readability, grammar, structure, and slide-by-slide actionable recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
